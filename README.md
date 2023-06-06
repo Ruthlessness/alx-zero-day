@@ -1,7 +1,4 @@
 **My Readme file**
-
-##This is tge vagrant project##
-
+##This is the vagrant project##
 *Created a repository
-*Created a readne file
-
+*Created a readme file
